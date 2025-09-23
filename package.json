@@ -1,6 +1,5 @@
 {
-  "name": "Scrim-s03mhe5",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0jh/s02igfj6nb/head",
+
   "scripts": {
     "start": "vite",
     "dev": "vite",
